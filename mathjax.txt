@@ -1,0 +1,5 @@
+mathjax
+
+https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
+
+https://www.overleaf.com/learn/latex/List_of_Greek_letters_and_math_symbols
